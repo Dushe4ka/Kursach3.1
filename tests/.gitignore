@@ -1,0 +1,9 @@
+venv
+venv/
+*pyc
+__pycache__
+.coverage
+poetry.lock
+.pytest_cache
+.vscode
+.vscode/
